@@ -26,10 +26,6 @@
 * [Vue & ajax](./src/pages/vue-query/index.vue)
 
   自己写一个页面，实现模糊城市查询。
-
-  API: https://h5.133.cn/hangban/basic/search_airport?q=%E5%8C%97%E4%BA%AC  （查询参数需要进行url encode，
-  调用`encodeURIComponent()` )
-
   高阶功能：输入频次太快，只响应最后一次
 
 ## Express 小任务
@@ -38,7 +34,7 @@
 
 * [Express 中转http请求](./src/pages/express-query/index.vue)
 
-  请求express的某个路由，返回 `https://h5.133.cn/hangban/basic/search_airport?q=%E5%8C%97%E4%BA%AC` 这个api的返回结果
+  请求express的某个路由，返回这个api的返回结果
 
   高阶功能：
 
