@@ -1,0 +1,1 @@
+{"type":"error","date":"Thu, 08 Apr 2021 14:08:11 GMT", "method":"POST", "url":"/getLog", "status":"400", "contentLength":"59", "referrer":"http://0.0.0.0:3000/express-log", "requestBody":{"date":"2021/4/8"}, "time":"4.752 ms"}
