@@ -1,5 +1,3 @@
-# 新手任务
-
 ## Vue 小任务
 
 * [Vue & to do list](./src/pages/vue-todo-list/index.vue)
@@ -33,8 +31,6 @@
   调用`encodeURIComponent()` )
 
   高阶功能：输入频次太快，只响应最后一次
-
-## <s>Mithril 小任务</s>
 
 ## Express 小任务
 
